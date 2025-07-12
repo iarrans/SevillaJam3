@@ -17,15 +17,21 @@ public class MusicManager : MonoBehaviour
     public AudioClip closeDrawer;
     public AudioClip papersounds;
     public AudioClip acuse;
+    public AudioClip clockAlarm;
     // Start is called before the first frame update
     void Start()
     {
-        
+        musicSource.clip = musicMain;
+        musicSource.Play();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void PlayMusic(AudioClip clip)
     {
-        
+        musicSource.clip = clip;
+        musicSource.Play();
+    }
+    public void PlaySFX(AudioClip clip)
+    {
+        sfxSource.PlayOneShot(clip);
     }
 }
