@@ -392,18 +392,6 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 7010586356579990460}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &887797715 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2325221590784618682, guid: 52db58d9113546749bbd428f7a884d5f,
-    type: 3}
-  m_PrefabInstance: {fileID: 8545893473083047455}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1122144006
 GameObject:
   m_ObjectHideFlags: 0
@@ -608,18 +596,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proofPanel: {fileID: 1139855258}
   unlockedProofs: []
---- !u!114 &1421514485 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1065087771291813565, guid: 52db58d9113546749bbd428f7a884d5f,
-    type: 3}
-  m_PrefabInstance: {fileID: 8545893473083047455}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1543420853
 GameObject:
   m_ObjectHideFlags: 0
@@ -945,25 +921,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2012513665}
     m_Modifications:
-    - target: {fileID: 637619729312841407, guid: 52db58d9113546749bbd428f7a884d5f,
-        type: 3}
-      propertyPath: hour
-      value: 
-      objectReference: {fileID: 1421514485}
-    - target: {fileID: 637619729312841407, guid: 52db58d9113546749bbd428f7a884d5f,
-        type: 3}
-      propertyPath: closeButton
-      value: 
-      objectReference: {fileID: 887797715}
     - target: {fileID: 2008132705543146951, guid: 52db58d9113546749bbd428f7a884d5f,
         type: 3}
       propertyPath: m_Name
       value: ProofPanel
-      objectReference: {fileID: 0}
-    - target: {fileID: 2008132705543146951, guid: 52db58d9113546749bbd428f7a884d5f,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7025489324961191463, guid: 52db58d9113546749bbd428f7a884d5f,
         type: 3}
