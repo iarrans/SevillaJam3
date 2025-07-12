@@ -6,13 +6,24 @@ using UnityEngine.UI;
 
 public class VolumeSettings : MonoBehaviour
 {
+    public static VolumeSettings instance;
+
     [SerializeField] private AudioMixer myMixer;
     [SerializeField] private Slider musicSlider;
     [SerializeField] private Slider sfxSlider;
-    [SerializeField] private AudioSource music;
-    [SerializeField] private AudioSource sfx;
     [SerializeField] private Toggle musicToggle;
     [SerializeField] private Toggle sfxToggle;
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
     private void Start()
     {

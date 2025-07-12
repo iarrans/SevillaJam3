@@ -6,7 +6,7 @@ using TMPro;
 
 public class UIManager : MonoBehaviour
 {
-    UIManager instance;
+    public static UIManager instance;
 
     [Header("Paneles")]
     public GameObject mainMenu;
@@ -22,7 +22,13 @@ public class UIManager : MonoBehaviour
     private void Awake()
     {
         if (instance == null)
+        {
             instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
     private void Start()
     {
