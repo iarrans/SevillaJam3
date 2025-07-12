@@ -12,7 +12,7 @@ public class TimeManager : MonoBehaviour
 
     public TextMeshProUGUI textoTiempo; //texto cuenta atrás
 
-    public bool isPlaying = true; //indica si el temporizador está en marcha o no
+    public bool isPlaying = false; //indica si el temporizador está en marcha o no
 
     public float minutero = 0;//tiempo total para pasarse el juego
     public int diaFinal = 8; //inicialmente, tiempoTotal
@@ -58,5 +58,10 @@ public class TimeManager : MonoBehaviour
 
         yield return new WaitForSeconds(2f); //espera 2 segundos antes de cambiar de escena
         SceneManager.LoadScene("GameOver");
+    }
+
+    public void SetPlaying()
+    {
+        isPlaying = true;
     }
 }

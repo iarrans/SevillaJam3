@@ -61,10 +61,12 @@ public class SuspectsMenu : MonoBehaviour
         if (currentSuspectIndex == 0)
         {
             leftButton.SetActive(false);
+            rightButton.SetActive(true);
         } 
         else if (currentSuspectIndex == suspects.Count - 1)
         {
             rightButton.SetActive(false);
+            leftButton.SetActive(true);
         } 
         else
         {
@@ -77,6 +79,7 @@ public class SuspectsMenu : MonoBehaviour
     public void LoadSuspect(SuspectSO suspect)
     {
         currentSuspectIndex = suspects.IndexOf(suspect);
+        currentSuspect = suspect;
         UpdateSuspectUI(suspect);
     }
 
