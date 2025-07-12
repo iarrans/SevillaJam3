@@ -88,12 +88,32 @@ public class SuspectsMenu : MonoBehaviour
         if (currentSuspect == murderer)
         {
             Debug.Log("Victory");
-            //SceneManager.LoadScene("Victory");
+            StartCoroutine(EndGame(true));
         } 
         else
         {
             Debug.Log("Loss");
-            //SceneManager.LoadScene("GameOver");
+            StartCoroutine(EndGame(false));
         }
     }
+
+    public IEnumerator EndGame(bool victory)
+    {
+        TimeManager.Instance.isPlaying = false; //detiene el temporizador
+        yield return new WaitForSeconds(1f); //espera 2 segundos antes de cambiar de escena
+        if (victory)
+        {
+            UIManager.instance.victory.SetActive(true);
+            MusicManager.instance.PlayMusic(MusicManager.instance.musicGameWinned);
+
+        }
+        else
+        {
+            UIManager.instance.gameOver.SetActive(true);
+            MusicManager.instance.PlayMusic(MusicManager.instance.musicGameOver);
+
+        }
+
+    }
+
 }

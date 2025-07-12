@@ -55,9 +55,10 @@ public class TimeManager : MonoBehaviour
     public IEnumerator FinNivel()//Prepara los datos para cambiar de nivel
     {
         isPlaying = false; //detiene el temporizador
-
-        yield return new WaitForSeconds(2f); //espera 2 segundos antes de cambiar de escena
-        SceneManager.LoadScene("GameOver");
+        MusicManager.instance.PlaySFX(MusicManager.instance.clockAlarm);
+        yield return new WaitForSeconds(1f); //espera 2 segundos antes de cambiar de escena
+        UIManager.instance.gameOver.SetActive(true);
+        MusicManager.instance.PlayMusic(MusicManager.instance.musicGameOver);
     }
 
     public void SetPlaying()

@@ -16,7 +16,6 @@ public class MusicManager : MonoBehaviour
     public AudioClip Static;
     public AudioClip tvButtons;
     public AudioClip openDrawer;
-    public AudioClip closeDrawer;
     public AudioClip papersounds;
     public AudioClip acuse;
     public AudioClip clockAlarm;
