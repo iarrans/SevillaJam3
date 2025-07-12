@@ -27,6 +27,19 @@ public class VideoSystemManager : MonoBehaviour
         }
     }
 
+    private void Start()
+    {
+        if (videoScenes.Count == 0)
+        {
+            Debug.LogError("No video scenes available in the list.");
+            return;
+        }
+
+        // Initialize the first video scene
+        LoadVideoScene(currentSceneIndex);
+        UpdateVideoTitle();
+    }
+
     public void RewindVideo()
     {
         if (currentSceneIndex > 0)
