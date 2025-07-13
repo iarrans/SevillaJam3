@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proofID: 4
   proofName: Restos de pelo animal
-  proofDescription: "Encontrados en la silla y en la cama. Parecen de un perro muy
-    bien cuidado, o de alg\xFAn otro tipo de animal"
+  proofDescription: "Restos de pelo animal en la silla y en la cama. Parecen de un
+    perro muy bien cuidado, o de alg\xFAn otro tipo de animal."
   hour: 19:00
   proofImage: {fileID: 21300000, guid: 74a191365ec436244a99276a47180657, type: 3}

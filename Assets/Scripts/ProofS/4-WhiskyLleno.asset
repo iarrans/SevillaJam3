@@ -17,4 +17,4 @@ MonoBehaviour:
   proofDescription: Una botella de whisky medio llena, como para 3 o 4 whiskys solos.
     Es la misma marca que la de antes.
   hour: 15:27
-  proofImage: {fileID: 21300000, guid: c43177d7c86ab0842a63297126837ef0, type: 3}
+  proofImage: {fileID: 21300000, guid: 694aed8f949275342ab021d23cf9ce6a, type: 3}

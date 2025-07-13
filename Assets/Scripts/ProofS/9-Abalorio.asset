@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proofID: 8
   proofName: Abalorio
-  proofDescription: "Parece ser una pieza de una joya. Por su tama\xF1o, un collar.
-    En su parte trasera, est\xE1n grabadas las iniciales U.C."
+  proofDescription: "Parece ser una pieza de una joya, una alianza. En su parte trasera,
+    est\xE1n grabadas las iniciales U.C."
   hour: 22:00
-  proofImage: {fileID: 21300000, guid: 63e80f9ae8b68a14fb26b149d61bb733, type: 3}
+  proofImage: {fileID: 21300000, guid: 422af591e6147ec4f93f13e9b6c79a71, type: 3}

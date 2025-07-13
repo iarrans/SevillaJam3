@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 2-Cigarros
   m_EditorClassIdentifier: 
   proofID: 1
-  proofName: Whisky lleno
-  proofDescription: "M\xE1s lleno que yo despu\xE9s de comer churros"
-  hour: '12: A.M'
+  proofName: Cigarros recien apagados
+  proofDescription: " Dos cigarros a\xFAn con ascuas en un cenicero de vidrio rojo."
+  hour: 10:16
   proofImage: {fileID: 21300000, guid: 4cf999f21079be6458733b5005ffdd32, type: 3}

@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: 3-CuadroPadre
   m_EditorClassIdentifier: 
   proofID: 2
-  proofName: Whisky lleno
-  proofDescription: "M\xE1s lleno que yo despu\xE9s de comer churros"
-  hour: '12: A.M'
-  proofImage: {fileID: 21300000, guid: 69312b5b668d424438e694cc5c14659a, type: 3}
+  proofName: Cuadro de una familia
+  proofDescription: "Cuadro del difunto padre de la v\xEDctima. Al ser su hotel viv\xEDa
+    en esta habitaci\xF3n."
+  hour: '10:45 '
+  proofImage: {fileID: 21300000, guid: 404cde9c13f20ac4abe6125a1d772e83, type: 3}
