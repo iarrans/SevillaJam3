@@ -1934,7 +1934,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -256}
+  m_AnchoredPosition: {x: 0, y: -405.1}
   m_SizeDelta: {x: 640.6, y: 341.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &288560725
@@ -2147,8 +2147,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 264}
-  m_SizeDelta: {x: 500, y: 400}
+  m_AnchoredPosition: {x: 9.1014, y: 168.74521}
+  m_SizeDelta: {x: 428.8442, y: 599.5673}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &294025037
 MonoBehaviour:
@@ -2320,12 +2320,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de xto de prueba.Esto es
-    un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.
+  m_text: "Esa ma\xF1ana vine despu\xE9s de pasear a los perros con mi madre. Mi
+    preciosa Pomerania quer\xEDa que la cogiera en brazos todo el rato. Todos saben
+    que no me puedo resistir a sus ojitos.\r\nEn el paseo, mi madre y yo rememoramos
+    el colegio y decid\xED que ten\xEDa que poner las cosas en su sitio, solucionar
+    el dolor que me caus\xF3 Dani Calvario.\r\nFui al hotel y me acerqu\xE9 a su
+    habitaci\xF3n, escuch\xE9 ruidos raros y baj\xE9 al vest\xEDbulo para hablar
+    con el personal del hotel. Al rato, Dani y yo nos encontramos. \r\nMe ofreci\xF3
+    tomar algo en su cuarto para hablar de los viejos tiempos. Cuando sub\xED, me
+    ofreci\xF3 su whisky favorito de siempre. Sigue sin gustarme sin mezclar, es
+    muy fuerte para m\xED.\r\nDespu\xE9s de eso, me fui mucho m\xE1s tranquilo. Me
+    enter\xE9 de la desgracia por los vecinos.\r\n\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2352,8 +2357,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 42
-  m_fontSizeBase: 42
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4337,7 +4342,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -2.3065}
+  m_AnchoredPosition: {x: 0, y: -180.3}
   m_SizeDelta: {x: 640.6, y: 74.163}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &552946567

@@ -12,12 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abf024cf324bd54e9635613589d0dd7, type: 3}
   m_Name: DonDani
   m_EditorClassIdentifier: 
-  SuspectName: DonDani
-  importantPoints: -a\n-b\n-c
-  testimony: Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de xto de prueba.Esto es
-    un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.
+  SuspectName: Don Daniel Calvario
+  importantPoints: "Due\xF1o del hotel X Reside en el lugar de los hechos Se le conoce
+    como \u201CEl Casanova de Ulpiano\u201D "
+  testimony: "El se\xF1or Calvario es reconocido en la ciudad por su hotel X, famoso
+    por el lujo que ofrece. En este, conoci\xF3 a la se\xF1ora Carlota Medina, su
+    expareja y sospechosa de contrabando de tabaco. El hotel estaba pasando por dificultades
+    econ\xF3micas, por lo que pidi\xF3 un pr\xE9stamo.  La v\xEDctima fue hallada
+    en su cuarto. Se estima que perdi\xF3 la vida entre las 20:00 y las 22:00 El
+    fallecido se encuentra con ara\xF1azos en la espalda y moratones en el cuello.
+    Adem\xE1s, presenta varias contusiones y heridas no letales que parecen haber
+    surgido de forcejeo. La verdadera causa de la muerte es desconocida. "
   portrait: {fileID: 21300000, guid: 0d00436d3fadccf4f9fdf7c9cad1de80, type: 3}

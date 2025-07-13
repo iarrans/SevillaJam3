@@ -12,12 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abf024cf324bd54e9635613589d0dd7, type: 3}
   m_Name: Ernesto
   m_EditorClassIdentifier: 
-  SuspectName: Ernesto
-  importantPoints: -a\n-b\n-c
-  testimony: Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de xto de prueba.Esto es
-    un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.
-  portrait: {fileID: 21300000, guid: e41733663a1c8c243bbc4a5a417d024d, type: 3}
+  SuspectName: "Ernesto Ont\xF3n"
+  importantPoints: "Compa\xF1ero de colegio del fallecido.                                
+    Socio de una protectora animal V\xEDctima de acoso por parte del difunto "
+  testimony: "Esa ma\xF1ana vine despu\xE9s de pasear a los perros con mi madre.
+    Mi preciosa Pomerania quer\xEDa que la cogiera en brazos todo el rato. Todos
+    saben que no me puedo resistir a sus ojitos. En el paseo, mi madre y yo rememoramos
+    el colegio y decid\xED que ten\xEDa que poner las cosas en su sitio, solucionar
+    el dolor que me caus\xF3 Dani Calvario. Fui al hotel y me acerqu\xE9 a su habitaci\xF3n,
+    escuch\xE9 ruidos raros y baj\xE9 al vest\xEDbulo para hablar con el personal
+    del hotel. Al rato, Dani y yo nos encontramos.  Me ofreci\xF3 tomar algo en su
+    cuarto para hablar de los viejos tiempos. Cuando sub\xED, me ofreci\xF3 su whisky
+    favorito de siempre. Sigue sin gustarme sin mezclar, es muy fuerte para m\xED.
+    Despu\xE9s de eso, me fui mucho m\xE1s tranquilo. Me enter\xE9 de la desgracia
+    por los vecinos. "
+  portrait: {fileID: 21300000, guid: c0b2b87d057b99b47a75223e3849e288, type: 3}

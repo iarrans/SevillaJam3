@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abf024cf324bd54e9635613589d0dd7, type: 3}
   m_Name: Dimitri
   m_EditorClassIdentifier: 
-  SuspectName: Dimitri
-  importantPoints: -a\n-b\n-c
-  testimony: Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de xto de prueba.Esto es
-    un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.
-  portrait: {fileID: 21300000, guid: 0d00436d3fadccf4f9fdf7c9cad1de80, type: 3}
+  SuspectName: Dimitri Von Vastik
+  importantPoints: "Prestamista.                          Tiene antecedentes penales.         
+    Tuvo c\xE1ncer de pulm\xF3n."
+  testimony: "Ese d\xEDa qued\xE9 con el se\xF1or Calvario para asuntos econ\xF3micos.
+    Se me debe una gran suma por su hotel fallido.  Nos vimos a las 14:00 en su habitaci\xF3n
+    y bajamos a tomar el almuerzo. Subimos a su habitaci\xF3n, compartiendo unos
+    cigarros para liberar tensiones.  De nuevo, la excusa de no tener dinero. Pero
+    s\xE9 que ha heredado mucho de su difunto padre. Los Von Vastik no somos tontos,
+    no iba a tolerar un enga\xF1o m\xE1s de su parte. "
+  portrait: {fileID: 21300000, guid: fa636c8863a11c648ae54f2abe6fd3d6, type: 3}

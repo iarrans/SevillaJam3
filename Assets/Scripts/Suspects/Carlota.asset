@@ -12,12 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abf024cf324bd54e9635613589d0dd7, type: 3}
   m_Name: Carlota
   m_EditorClassIdentifier: 
-  SuspectName: Carlota
-  importantPoints: -a\n-b\n-c
-  testimony: Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de xto de prueba.Esto es
-    un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.
-  portrait: {fileID: 21300000, guid: e41733663a1c8c243bbc4a5a417d024d, type: 3}
+  SuspectName: Carlota Medina
+  importantPoints: "Heredera de los Medina.   Expareja de la v\xEDctima.             
+    Investigada actualmente en aduanas "
+  testimony: "No s\xE9 ni por qu\xE9 me est\xE1is preguntando por \xE9l. No quiero
+    tener nada que ver con ese cretino despu\xE9s de todo lo que ha hecho toda mi
+    familia por \xE9l, va y me lo agradece tir\xE1ndose a mi mejor amiga. A\xFAn
+    con todo, ilusa de m\xED, fui a ver si ser\xEDa capaz de ser tan hombre como
+    para devolverme mis cosas. Quedamos para desayunar en su hotelucho y subimos
+    a su habitaci\xF3n\u2026 No estoy orgullosa de lo que hice despu\xE9s. Entre
+    el whisky y el tabaco\u2026 tal vez se me fue un poco la mano. "
+  portrait: {fileID: 21300000, guid: ce6585ecffe50b54ea6a02f1bc82e4bc, type: 3}

@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abf024cf324bd54e9635613589d0dd7, type: 3}
   m_Name: Dolores
   m_EditorClassIdentifier: 
-  SuspectName: Dolores
-  importantPoints: -a\n-b\n-c
-  testimony: Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto es un texto
-    de prueba.Esto es un texto de prueba.Esto es un texto de xto de prueba.Esto es
-    un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.Esto es un texto de prueba.Esto es un texto de prueba.Esto
-    es un texto de prueba.
-  portrait: {fileID: 21300000, guid: e41733663a1c8c243bbc4a5a417d024d, type: 3}
+  SuspectName: Dolores Perado
+  importantPoints: 'Madrastra del fallecido. Recientemente viuda.          Erudita '
+  testimony: "Es verdad, estuve en el cuarto donde se hospedaba el hijo bastardo
+    de mi difunto marido, Ulpiano, que en paz descanse. Tan solo vine a hablar con
+    \xE9l porque creo que mi marido se equivoc\xF3 con su testamento. Las joyas me
+    las regal\xF3 en vida, me prometi\xF3 que ser\xEDan m\xEDas. Dios sabe que solo
+    quiero que se cumpla su \xFAltima voluntad. Solo vine una vez, por la tarde,
+    pero no estaba en su habitaci\xF3n. Pobre de m\xED, me fu\xED sin verle al final
+    y ahora ya no est\xE1 entre nosotros. "
+  portrait: {fileID: 21300000, guid: 7f3664c945fdd684eaaded583f4a5f99, type: 3}
