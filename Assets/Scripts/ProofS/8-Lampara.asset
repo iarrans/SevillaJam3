@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0038f926acfc3dd4f9fbcdb423277eba, type: 3}
+  m_Name: 8-Lampara
+  m_EditorClassIdentifier: 
+  proofID: 7
+  proofName: "L\xE1mpara ca\xEDda"
+  proofDescription: parece tener una abolladura en el borde de la pantalla. Tiene
+    una mancha de sangre.
+  hour: 22:00
+  proofImage: {fileID: 21300000, guid: 63e80f9ae8b68a14fb26b149d61bb733, type: 3}

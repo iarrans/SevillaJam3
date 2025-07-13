@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0038f926acfc3dd4f9fbcdb423277eba, type: 3}
-  m_Name: fullWhisky
+  m_Name: 10-Hueco
   m_EditorClassIdentifier: 
-  proofID: 1
-  proofName: Whisky lleno
-  proofDescription: "M\xE1s lleno que yo despu\xE9s de comer churros"
-  hour: '12: A.M'
-  proofImage: {fileID: 21300000, guid: e41733663a1c8c243bbc4a5a417d024d, type: 3}
+  proofID: 8
+  proofName: "\xBFHueco?"
+  proofDescription: "Me parece recordar que aqu\xED hab\xEDa algo. Tal vez pueda
+    revisar las pruebas anteriores de nuevo."
+  hour: ??:??
+  proofImage: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
